@@ -1,1 +1,1 @@
-# GuardIQ : AI-Powered Surveillance System for Banks
+# AI-Powered Surveillance System for Banks
